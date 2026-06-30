@@ -9,6 +9,8 @@ Turn any codebase into an AI-ready context pack for Claude Code, Codex, Cursor, 
 
 Repo2Prompt is a lightweight TypeScript CLI that scans a repository and generates a compact, structured set of Markdown files your coding agent can read before making changes.
 
+Latest release: https://github.com/MkaliezZ/repo2prompt/releases/tag/v0.1.0
+
 ## Quick Demo
 
 ```bash

@@ -1,6 +1,6 @@
 {
   "name": "repo2prompt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Turn any codebase into an AI-ready context pack for Claude Code, Codex, Cursor, Cline, Gemini CLI, and other AI coding agents.",
   "type": "module",
   "bin": {
@@ -35,7 +35,7 @@
     "gemini",
     "copilot"
   ],
-  "author": "TBD",
+  "author": "MkaliezZ",
   "license": "MIT",
   "repository": {
     "type": "git",

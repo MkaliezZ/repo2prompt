@@ -4,8 +4,8 @@
 
 - Name: repo2prompt
 - Source path: /Users/macos/Desktop/repo2prompt
-- Generated at: 2026-06-30T18:34:53.298Z
-- Approx token count: 9713
+- Generated at: 2026-06-30T18:41:59.002Z
+- Approx token count: 9734
 
 ## Detected Tech Stack
 
@@ -65,7 +65,7 @@ repo2prompt/
 ## Package Metadata
 
 - name: repo2prompt
-- version: 0.1.0
+- version: 0.1.1
 - scripts:
   - dev: `tsx src/cli.ts`
   - build: `tsc -p tsconfig.json`
@@ -287,7 +287,7 @@ SOFTWARE.
 ```json
 {
   "name": "repo2prompt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Turn any codebase into an AI-ready context pack for Claude Code, Codex, Cursor, Cline, Gemini CLI, and other AI coding agents.",
   "type": "module",
   "bin": {
@@ -322,7 +322,7 @@ SOFTWARE.
     "gemini",
     "copilot"
   ],
-  "author": "TBD",
+  "author": "MkaliezZ",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -358,6 +358,8 @@ SOFTWARE.
 Turn any codebase into an AI-ready context pack for Claude Code, Codex, Cursor, Cline, Gemini CLI, GitHub Copilot, and other AI coding agents.
 
 Repo2Prompt is a lightweight TypeScript CLI that scans a repository and generates a compact, structured set of Markdown files your coding agent can read before making changes.
+
+Latest release: https://github.com/MkaliezZ/repo2prompt/releases/tag/v0.1.0
 
 ## Quick Demo
 
