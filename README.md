@@ -186,6 +186,11 @@ npm run lint
 node dist/cli.js . --output /tmp/repo2prompt-smoke --max-files 80
 ```
 
+## Related Projects
+
+- [Repo2Prompt](https://github.com/MkaliezZ/repo2prompt): Turn any codebase into an AI-ready context pack.
+- [Agent Rules Kit](https://github.com/MkaliezZ/agent-rules-kit): Generate reusable project rules for AI coding agents.
+
 ## Roadmap
 
 - Better .gitignore support
