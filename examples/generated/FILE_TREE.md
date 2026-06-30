@@ -1,0 +1,41 @@
+# File Tree
+
+```text
+repo2prompt/
+  .github/
+    workflows/
+      ci.yml
+  examples/
+    sample-project/
+      src/
+        index.ts
+      package.json
+      tsconfig.json
+  src/
+    agents.ts
+    cli.ts
+    fileTree.ts
+    filters.ts
+    generator.ts
+    glob.ts
+    index.ts
+    packageMetadata.ts
+    renderMarkdown.ts
+    scanner.ts
+    techStack.ts
+    tokenEstimator.ts
+    types.ts
+  tests/
+    fileTree.test.ts
+    filters.test.ts
+    generator.test.ts
+    renderMarkdown.test.ts
+    tokenEstimator.test.ts
+  .gitignore
+  CHANGELOG.md
+  CONTRIBUTING.md
+  LICENSE
+  package.json
+  README.md
+  tsconfig.json
+```

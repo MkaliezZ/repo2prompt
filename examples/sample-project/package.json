@@ -1,0 +1,7 @@
+{
+  "name": "repo2prompt-sample-project",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo sample"
+  }
+}
